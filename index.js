@@ -1,3 +1,7 @@
+//TODO: build inquirer prompt to grab the info from the user
+
+
+
 
 //Requirements:
 // inquirer prompt gathers all the info
