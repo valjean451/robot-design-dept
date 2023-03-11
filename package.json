@@ -1,0 +1,24 @@
+{
+  "name": "robot-design-dept",
+  "description": "Stamping out logo designs that are as original as the programming that makes them.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "valjean451",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
